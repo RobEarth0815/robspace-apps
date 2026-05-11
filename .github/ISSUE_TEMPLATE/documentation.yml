@@ -1,0 +1,66 @@
+name: 📖 Content Correction (mainly 4DI)
+description: A factual error, outdated reference, or unclear explanation in app content — primarily for 4DI's regulatory references and glossary.
+title: "[Docs] "
+labels: ["type:documentation", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for catching this! Content quality matters — especially in 4DI, where the references need to be accurate.
+
+  - type: dropdown
+    id: app
+    attributes:
+      label: Which app?
+      options:
+        - 4DI
+        - 4RSS
+        - 4Meds
+        - 4Budget
+        - 4Migraine
+        - 4ToDo
+    validations:
+      required: true
+
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the app?
+      description: Which screen, section, or entry? A screenshot helps a lot.
+      placeholder: "ALCOA++ section → 'Attributable' explanation, second paragraph"
+    validations:
+      required: true
+
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What's incorrect, outdated, or unclear?
+      description: Quote the current text if you can.
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggested
+    attributes:
+      label: Suggested correction or improvement
+      description: What should it say instead? Citations to authoritative sources very welcome.
+    validations:
+      required: false
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources / references
+      description: Links to FDA / EMA / MHRA / WHO / PIC/S documents or other authoritative sources.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Before you submit
+      options:
+        - label: I've searched [existing content issues](https://github.com/RobEarth0815/robspace-apps/issues?q=is%3Aissue+label%3Atype%3Adocumentation) and this isn't a duplicate.
+          required: true
+        - label: I've read the [Code of Conduct](https://github.com/RobEarth0815/robspace-apps/blob/main/CODE_OF_CONDUCT.md).
+          required: true

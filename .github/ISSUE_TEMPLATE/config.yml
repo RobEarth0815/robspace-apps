@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a question or start a discussion
+    url: https://github.com/RobEarth0815/robspace-apps/discussions
+    about: Questions, workflows, opinions, and general chat about the apps. Not sure if it's a bug? Start here.
+  - name: 📧 Sensitive support (license, privacy, business)
+    url: mailto:support@robspace.de
+    about: For anything that doesn't belong in a public issue — license problems, GDPR/privacy requests, business inquiries.
+  - name: 🌐 robspace website
+    url: https://robspace.de
+    about: Browse all apps, news, and release notes.

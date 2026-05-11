@@ -1,0 +1,87 @@
+name: ✨ Feature Request
+description: Suggest a new feature, an improvement, or a change to how an app works.
+title: "[Feature] "
+labels: ["type:enhancement", "status:needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to share an idea! A few things to keep in mind:
+
+        - The robspace apps are **minimalist by design**. "Less features means more value" is the brand philosophy. Some requests are great in isolation but would make the app worse overall — I'll explain my reasoning either way.
+        - The more concrete the use case, the better the chance the feature lands. "I would use this when…" beats "wouldn't it be cool if…".
+        - For content corrections in **4DI** (regulatory references, glossary entries), this is also the right template — just pick the `type:documentation` flavor when filing.
+
+  - type: dropdown
+    id: app
+    attributes:
+      label: Which app?
+      description: Which robspace app should this feature be added to?
+      options:
+        - 4RSS
+        - 4Meds
+        - 4Budget
+        - 4DI
+        - 4Migraine
+        - 4ToDo
+        - Multiple apps
+        - "A new app (separate suggestion)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve?
+      description: Describe the real-world situation where the app falls short for you today. *Don't* jump to a solution yet — just paint the picture.
+      placeholder: |
+        I'm trying to … and right now the app doesn't let me …, so I end up doing … instead.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: How do you imagine the app should handle this? Be as concrete as you can — a sketch, a button label, a workflow.
+      placeholder: |
+        Add a button that …
+        Or: change the existing X to also support …
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives you've considered
+      description: Other ways to solve the same problem — including doing nothing, using a different app, or a workaround you already use.
+    validations:
+      required: false
+
+  - type: textarea
+    id: who-benefits
+    attributes:
+      label: Who else would benefit?
+      description: Is this just you, or a wider group? E.g. "anyone who tracks more than 4 medications", "anyone in regulated pharma".
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Anything else?
+      description: Mockups, links to how other apps do it, references — anything that helps me get the picture.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: agreements
+    attributes:
+      label: Before you submit
+      options:
+        - label: I've searched [existing requests](https://github.com/RobEarth0815/robspace-apps/issues?q=is%3Aissue+label%3Atype%3Aenhancement) and this isn't a duplicate.
+          required: true
+        - label: I understand the apps are minimalist by design, and not every good idea makes the cut.
+          required: true
+        - label: I've read the [Code of Conduct](https://github.com/RobEarth0815/robspace-apps/blob/main/CODE_OF_CONDUCT.md).
+          required: true
