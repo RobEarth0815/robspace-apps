@@ -20,12 +20,25 @@
 
 ## Screenshots
 
-<p>
-  <img src="../images/screenshots/4meds-1.jpg" width="280" alt="4Meds screenshot 1" />
-  <img src="../images/screenshots/4meds-2.jpg" width="280" alt="4Meds screenshot 2" />
-</p>
+<table>
+<tr>
+<td><img src="../images/screenshots/4meds-1.jpg" width="240" alt="4Meds screenshot 1" /></td>
+<td><img src="../images/screenshots/4meds-2.jpg" width="240" alt="4Meds screenshot 2" /></td>
+<td><img src="../images/screenshots/4meds-3.jpg" width="240" alt="4Meds screenshot 3" /></td>
+</tr>
+<tr>
+<td><img src="../images/screenshots/4meds-4.jpg" width="240" alt="4Meds screenshot 4" /></td>
+<td><img src="../images/screenshots/4meds-5.jpg" width="240" alt="4Meds screenshot 5" /></td>
+<td><img src="../images/screenshots/4meds-6.jpg" width="240" alt="4Meds screenshot 6" /></td>
+</tr>
+<tr>
+<td><img src="../images/screenshots/4meds-7.jpg" width="240" alt="4Meds screenshot 7" /></td>
+<td><img src="../images/screenshots/4meds-8.jpg" width="240" alt="4Meds screenshot 8" /></td>
+<td></td>
+</tr>
+</table>
 
-<sub>More screenshots on the [App Store page](https://apps.apple.com/app/4meds/id6760107781).</sub>
+<sub>Full gallery and latest screenshots on the [App Store page](https://apps.apple.com/app/4meds/id6760107781).</sub>
 
 ## Specs
 

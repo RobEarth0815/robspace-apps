@@ -21,12 +21,25 @@
 
 ## Screenshots
 
-<p>
-  <img src="../images/screenshots/4migraine-1.jpg" width="280" alt="4Migraine screenshot 1" />
-  <img src="../images/screenshots/4migraine-2.jpg" width="280" alt="4Migraine screenshot 2" />
-</p>
+<table>
+<tr>
+<td><img src="../images/screenshots/4migraine-1.jpg" width="240" alt="4Migraine screenshot 1" /></td>
+<td><img src="../images/screenshots/4migraine-2.jpg" width="240" alt="4Migraine screenshot 2" /></td>
+<td><img src="../images/screenshots/4migraine-3.jpg" width="240" alt="4Migraine screenshot 3" /></td>
+</tr>
+<tr>
+<td><img src="../images/screenshots/4migraine-4.jpg" width="240" alt="4Migraine screenshot 4" /></td>
+<td><img src="../images/screenshots/4migraine-5.jpg" width="240" alt="4Migraine screenshot 5" /></td>
+<td><img src="../images/screenshots/4migraine-6.jpg" width="240" alt="4Migraine screenshot 6" /></td>
+</tr>
+<tr>
+<td><img src="../images/screenshots/4migraine-7.jpg" width="240" alt="4Migraine screenshot 7" /></td>
+<td><img src="../images/screenshots/4migraine-8.jpg" width="240" alt="4Migraine screenshot 8" /></td>
+<td></td>
+</tr>
+</table>
 
-<sub>More screenshots on the [App Store page](https://apps.apple.com/app/4migraine/id6760842125).</sub>
+<sub>Full gallery and latest screenshots on the [App Store page](https://apps.apple.com/app/4migraine/id6760842125).</sub>
 
 ## Specs
 
