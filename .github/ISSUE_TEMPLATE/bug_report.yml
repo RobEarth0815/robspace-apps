@@ -22,6 +22,7 @@ body:
         - 4DI
         - 4Migraine
         - 4ToDo
+        - 4Level
         - Multiple apps
     validations:
       required: true

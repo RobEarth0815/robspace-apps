@@ -21,6 +21,9 @@
 - name: "app:4todo"
   color: "2874a6"
   description: "4ToDo — task manager"
+- name: "app:4level"
+  color: "8fb82a"
+  description: "4Level — fitness level & plan adherence"
 
 # ---- Type (what kind of issue) ----
 - name: "type:bug"

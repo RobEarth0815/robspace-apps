@@ -83,6 +83,16 @@ Tasks, routines, and goals — not as checklists, but as visual progress bars. S
 <a href="docs/apps/4todo.md">Details</a> · <a href="https://4todo.app.robspace.de">Website</a> · <a href="https://apps.apple.com/app/4todo/id6760901710">App Store</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4todo%2Ctype%3Abug&template=bug_report.yml">Report a 4ToDo bug</a>
 </td>
 </tr>
+<tr>
+<td width="100" align="center">
+<a href="https://4level.app.robspace.de"><img src="docs/images/icons/4level.jpg" width="80" alt="4Level icon" /></a>
+</td>
+<td>
+<h3>4Level — Stick to Your Resolutions</h3>
+For ambitious amateur athletes: one honest fitness level from your Apple Health workouts — and a clear view of whether you stick to your own training resolutions. On-device, no accounts. <i>Version 1.0 is in App Review.</i><br/>
+<a href="docs/apps/4level.md">Details</a> · <a href="https://4level.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4level%2Ctype%3Abug&template=bug_report.yml">Report a 4Level bug</a>
+</td>
+</tr>
 </table>
 
 ---
