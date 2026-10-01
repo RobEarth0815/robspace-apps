@@ -6,9 +6,7 @@
 
 4Level is made for ambitious amateur athletes who already train regularly and want to know: *How fit am I really — and am I sticking to what I set out to do?* It analyses the workouts you already record. It does not create training plans or coaching advice — you decide how you train; 4Level measures, explains and keeps you honest.
 
-> **Status:** Version 1.0 is currently in App Review. The App Store link goes live once Apple approves it.
-
-[App Store](https://apps.apple.com/app/4level/id6816633802) · [Website](https://4level.app.robspace.de)
+[**↓ Get it on the App Store**](https://apps.apple.com/app/4level/id6816633802) · [Website](https://4level.app.robspace.de)
 
 ---
 
