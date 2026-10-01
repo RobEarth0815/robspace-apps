@@ -49,7 +49,7 @@
 | **Minimum iOS** | 26.1 |
 | **Category** | Finance |
 | **Price** | $1.99 (one-time) |
-| **Languages** | English |
+| **Languages** | English — German, French, Spanish and Italian follow with version 2.2 (currently in App Review) |
 | **Privacy** | 100% local, no accounts, no tracking |
 
 ## File an issue for 4Budget
