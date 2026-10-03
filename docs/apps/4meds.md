@@ -14,6 +14,7 @@
 
 - **Recurring and on-demand medications** — daily prescriptions, weekly supplements or the occasional painkiller, with dosage limits for on-demand meds.
 - **Reminders** so you don't forget the morning dose.
+- **Supply tracking & reorder reminders** *(from version 2.7)* — optional pack size per medication, counted down with every dose you log; a reminder before a supply runs out, plus a supply calendar and overview.
 - **History view** — clear picture of what you've taken and when.
 - **Local storage only.** No cloud, no sync, no leak.
 - **iPhone.** SwiftUI, native, fast.
