@@ -12,11 +12,11 @@
 
 ## What it does
 
-- **Daily medications, weekly supplements, occasional painkillers** — three categories that cover most use cases.
+- **Recurring and on-demand medications** — daily prescriptions, weekly supplements or the occasional painkiller, with dosage limits for on-demand meds.
 - **Reminders** so you don't forget the morning dose.
 - **History view** — clear picture of what you've taken and when.
 - **Local storage only.** No cloud, no sync, no leak.
-- **iPhone + iPad.** SwiftUI, native, fast.
+- **iPhone.** SwiftUI, native, fast.
 
 ## Screenshots
 
@@ -44,7 +44,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone & iPad |
+| **Platform** | iPhone |
 | **Minimum iOS** | 18.6 |
 | **Category** | Health & Fitness |
 | **Price** | $1.99 (one-time) |
