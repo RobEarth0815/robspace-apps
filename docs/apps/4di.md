@@ -14,10 +14,10 @@
 
 - **ALCOA++ principles** — searchable, with examples and edge cases.
 - **Regulatory framework explorer** — FDA, EMA, MHRA, WHO, PIC/S references.
-- **GEMBA Walk documentation** templates and prompts.
-- **Inspection findings** — real-world examples to learn from.
-- **Comprehensive glossary** — every acronym, every term.
-- **🇬🇧 English, 🇩🇪 Deutsch, 🇫🇷 Français.**
+- **Data lifecycle explorer** — six stages from creation to destruction, with the principles that apply.
+- **Inspection findings** — 17 typical findings from FDA Warning Letters and EU GMP inspections, by severity.
+- **Glossary** — 29 key terms and acronyms, searchable, with bookmarks.
+- **🇬🇧 English, 🇩🇪 Deutsch, 🇫🇷 Français, 🇪🇸 Español, 🇮🇹 Italiano** (Spanish and Italian from version 1.5).
 - **Fully offline.** No data collection. Suitable for sensitive workplace environments.
 
 ## Screenshots
@@ -50,7 +50,7 @@
 | **Minimum iOS** | 18.6 |
 | **Category** | Productivity |
 | **Price** | Free |
-| **Languages** | English, German, French |
+| **Languages** | English, German, French, Spanish, Italian (Spanish and Italian from version 1.5) |
 | **Privacy** | Fully offline, no data collection |
 | **Companion** | Web app at [4di.app.robspace.de/webapp](https://4di.app.robspace.de/webapp/) |
 
