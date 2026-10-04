@@ -48,7 +48,7 @@
 | **Minimum iOS** | 26.1 |
 | **Category** | Health & Fitness |
 | **Price** | 30 days free, then 4Level Pro: yearly subscription or one-time lifetime licence (in-app purchase) |
-| **Languages** | English, German |
+| **Languages** | English, German, French, Spanish, Italian (from version 1.1) |
 | **Privacy** | Reads Apple Health (read-only), on-device only, no accounts, no tracking |
 
 <sub>The level is a training aid, not a medical assessment.</sub>
