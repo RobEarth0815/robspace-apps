@@ -49,7 +49,7 @@
 | **Minimum iOS** | 18.6 |
 | **Category** | Health & Fitness |
 | **Price** | $1.99 (one-time) |
-| **Languages** | English |
+| **Languages** | English, German, French, Spanish, Italian (since version 2.8) |
 | **Privacy** | No tracking, no accounts, no cloud sync |
 
 ## File an issue for 4Meds
