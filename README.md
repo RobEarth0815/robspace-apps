@@ -69,7 +69,7 @@ A pocket reference for pharmaceutical and life-science professionals. ALCOA++, r
 </td>
 <td>
 <h3>4Migraine — Smart Migraine Tracker</h3>
-Log attacks in real time, capture triggers and weather context, find patterns, and export a PDF report you can hand to your doctor. All data stays on your device.<br/>
+Log attacks in real time, capture symptoms and medications, find patterns, and export a PDF report you can hand to your doctor. All data stays on your device.<br/>
 <a href="docs/apps/4migraine.md">Details</a> · <a href="https://4migraine.app.robspace.de">Website</a> · <a href="https://apps.apple.com/app/4migraine/id6760842125">App Store</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4migraine%2Ctype%3Abug&template=bug_report.yml">Report a 4Migraine bug</a>
 </td>
 </tr>

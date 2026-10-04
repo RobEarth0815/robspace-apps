@@ -4,7 +4,7 @@
 
 **Log attacks in real time, find patterns, hand your doctor a real report.**
 
-4Migraine is for people whose head hurts often enough to need a tracker, and who'd rather have one that doesn't sell their health data. Real-time logging, weather context, pattern discovery, PDF reports — and everything stays on your phone.
+4Migraine is for people whose head hurts often enough to need a tracker, and who'd rather have one that doesn't sell their health data. Real-time logging, pattern discovery, PDF reports — and everything stays on your phone.
 
 [**↓ Get it on the App Store**](https://apps.apple.com/app/4migraine/id6760842125) · [Website](https://4migraine.app.robspace.de)
 
@@ -13,8 +13,7 @@
 ## What it does
 
 - **Real-time attack logging** — duration, intensity, symptoms, triggers.
-- **Weather data integration** — context for pattern hunting.
-- **Pattern analytics** — what time of day, day of week, around which weather conditions.
+- **Pattern analytics** — time of day, day of week, intensity over time, most common symptoms.
 - **PDF reports** for your doctor — sanitized, professional, ready to print.
 - **Dark theme** — built for the moments when light hurts.
 - **100% on-device.** No cloud, no account, no health-data resale.
@@ -49,7 +48,7 @@
 | **Minimum iOS** | 26.0 |
 | **Category** | Health & Fitness |
 | **Price** | $1.99 (one-time) |
-| **Languages** | English |
+| **Languages** | English, German, French, Spanish, Italian (from version 1.2) |
 | **Privacy** | All data on device, no cloud, no analytics |
 
 ## File an issue for 4Migraine
