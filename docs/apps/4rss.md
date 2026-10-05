@@ -43,7 +43,7 @@
 | **Minimum iOS** | 26.1 |
 | **Category** | News |
 | **Price** | $0.99 (one-time) |
-| **Languages** | English |
+| **Languages** | English, German, French, Spanish, Italian (from version 2.5) |
 | **Privacy** | No tracking, no accounts |
 
 ## File an issue for 4RSS
