@@ -25,6 +25,7 @@ body:
         - 4Migraine
         - 4ToDo
         - 4Level
+        - 4Mail
         - Multiple apps
         - "A new app (separate suggestion)"
     validations:

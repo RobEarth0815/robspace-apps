@@ -93,6 +93,16 @@ For ambitious amateur athletes: one honest fitness level from your Apple Health 
 <a href="docs/apps/4level.md">Details</a> · <a href="https://4level.app.robspace.de">Website</a> · <a href="https://apps.apple.com/app/4level/id6816633802">App Store</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4level%2Ctype%3Abug&template=bug_report.yml">Report a 4Level bug</a>
 </td>
 </tr>
+<tr>
+<td width="100" align="center">
+<a href="https://4mail.app.robspace.de"><img src="docs/images/icons/4mail.jpg" width="80" alt="4Mail icon" /></a>
+</td>
+<td>
+<h3>4Mail — All Addresses. One Glance.</h3>
+A Gmail client for people with several addresses in one mailbox: your folders as a pigeonhole wall, every reply from the right address, ToDos from mails, an agenda and an on-device briefing with Apple Intelligence. iPhone, iPad and Mac — no server in between. <i>Coming soon — currently in beta.</i><br/>
+<a href="docs/apps/4mail.md">Details</a> · <a href="https://4mail.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4mail%2Ctype%3Abug&template=bug_report.yml">Report a 4Mail bug</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -134,7 +144,7 @@ I'm a solo developer in Hofheim am Taunus, Germany. I read everything that comes
 
 ## Issue labels
 
-Issues are labeled by **app** (`app:4rss`, `app:4meds`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
+Issues are labeled by **app** (`app:4rss`, `app:4meds`, `app:4mail`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
 
 ---
 

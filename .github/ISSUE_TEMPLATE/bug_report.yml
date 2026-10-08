@@ -23,6 +23,7 @@ body:
         - 4Migraine
         - 4ToDo
         - 4Level
+        - 4Mail
         - Multiple apps
     validations:
       required: true

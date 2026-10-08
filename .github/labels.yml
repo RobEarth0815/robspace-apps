@@ -24,6 +24,9 @@
 - name: "app:4level"
   color: "C8F53C"
   description: "4Level — fitness level from Apple Health"
+- name: "app:4mail"
+  color: "2E3AD6"
+  description: "4Mail — Gmail client with pigeonhole wall"
 
 # ---- Type (what kind of issue) ----
 - name: "type:bug"

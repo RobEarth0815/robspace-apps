@@ -20,6 +20,7 @@ body:
         - 4Migraine
         - 4ToDo
         - 4Level
+        - 4Mail
     validations:
       required: true
 
