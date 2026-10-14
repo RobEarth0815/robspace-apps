@@ -14,7 +14,8 @@
 
 - **Your level, 1 to 100** — one number from fitness (training load, CTL), capacity (running VDOT or cycling W/kg) and consistency. Calculated for every day back to your first workout, using only what was known on that day. The formula is explained in the app.
 - **Stick to your resolutions** — set per sport how often you intend to train, optionally with weekly, monthly or yearly kilometre targets. Plan adherence, 26-week heatmap, streak and month balance. The week counts by number of sessions, not by weekday.
-- **Load, fatigue and freshness** — CTL, ATL and TSB, plus race predictions from 5 km to marathon.
+- **Load, fatigue and freshness** — CTL, ATL and TSB, plus race predictions from 5 km to marathon. The form state follows the trend of the last days, so a single hard run no longer reads as overload (from version 1.3).
+- **Recovery timer** — how long each session takes to recover from. Dots fill the gap at the bottom of the level ring; when the ring closes, you are recovered. Reads resting heart rate, heart rate over the day, HRV and cardio recovery from Apple Health, analyses your history once and adapts the timer to how you actually recover (from version 1.3).
 - **Running, cycling and hiking** — yearly goals, year-over-year comparison, weekly volume, records.
 - **Works with the apps you use** — reads from Apple Health (Apple Watch, Garmin Connect, Strava, Zwift, Wahoo …). You choose per sport which recording counts; double recordings count once.
 - **Private by design** — no account, no server, no analytics, no ads. Data stays on your iPhone.
@@ -35,7 +36,7 @@
 </tr>
 <tr>
 <td><img src="../images/screenshots/4level-7.jpg" width="240" alt="4Level screenshot 7" /></td>
-<td></td>
+<td><img src="../images/screenshots/4level-8.jpg" width="240" alt="4Level screenshot 8" /></td>
 <td></td>
 </tr>
 </table>
@@ -49,7 +50,7 @@
 | **Category** | Health & Fitness |
 | **Price** | 30 days free, then 4Level Pro: yearly subscription or one-time lifetime licence (in-app purchase) |
 | **Languages** | English, German, French, Spanish, Italian (from version 1.1) |
-| **Privacy** | Reads Apple Health (read-only), on-device only, no accounts, no tracking |
+| **Privacy** | Reads Apple Health (read-only, workouts and heart data), on-device only, no accounts, no tracking |
 
 <sub>The level is a training aid, not a medical assessment.</sub>
 
