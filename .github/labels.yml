@@ -27,6 +27,9 @@
 - name: "app:4mail"
   color: "2E3AD6"
   description: "4Mail — Gmail client with pigeonhole wall"
+- name: "app:4work"
+  color: "3BA9FF"
+  description: "4Work — time tracking and vacation planning"
 
 # ---- Type (what kind of issue) ----
 - name: "type:bug"

@@ -103,6 +103,16 @@ A Gmail client for people with several addresses in one mailbox: your folders as
 <a href="docs/apps/4mail.md">Details</a> · <a href="https://4mail.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4mail%2Ctype%3Abug&template=bug_report.yml">Report a 4Mail bug</a>
 </td>
 </tr>
+<tr>
+<td width="100" align="center">
+<a href="https://4work.app.robspace.de"><img src="docs/images/icons/4work.jpg" width="80" alt="4Work icon" /></a>
+</td>
+<td>
+<h3>4Work — Time Tracking & Vacation Planning</h3>
+A time clock for people who keep track of their own working hours: clock in with a tap, see your overtime balance, plan vacation, sick days and time off, track home office against your goals and hand in the monthly timesheet as PDF. iPhone — no account, no server of our own, no tracking.<br/>
+<a href="docs/apps/4work.md">Details</a> · <a href="https://4work.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4work%2Ctype%3Abug&template=bug_report.yml">Report a 4Work bug</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -144,7 +154,7 @@ I'm a solo developer in Hofheim am Taunus, Germany. I read everything that comes
 
 ## Issue labels
 
-Issues are labeled by **app** (`app:4rss`, `app:4meds`, `app:4mail`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
+Issues are labeled by **app** (`app:4rss`, `app:4meds`, `app:4mail`, `app:4work`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
 
 ---
 

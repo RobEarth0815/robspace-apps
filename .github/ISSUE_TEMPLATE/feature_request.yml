@@ -26,6 +26,7 @@ body:
         - 4ToDo
         - 4Level
         - 4Mail
+        - 4Work
         - Multiple apps
         - "A new app (separate suggestion)"
     validations:

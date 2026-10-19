@@ -21,6 +21,7 @@ body:
         - 4ToDo
         - 4Level
         - 4Mail
+        - 4Work
     validations:
       required: true
 
