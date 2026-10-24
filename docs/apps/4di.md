@@ -18,6 +18,7 @@
 - **Inspection findings** — 17 typical findings from FDA Warning Letters and EU GMP inspections, by severity.
 - **Glossary** — 29 key terms and acronyms, searchable, with bookmarks.
 - **🇬🇧 English, 🇩🇪 Deutsch, 🇫🇷 Français, 🇪🇸 Español, 🇮🇹 Italiano** (Spanish and Italian from version 1.5).
+- **iPhone Duo** — half open, the selected definition or finding sits in one half and the list and controls in the other; fully open, list and details side by side (from version 1.6).
 - **Fully offline.** No data collection. Suitable for sensitive workplace environments.
 
 ## Screenshots
