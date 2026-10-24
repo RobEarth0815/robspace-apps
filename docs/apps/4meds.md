@@ -17,6 +17,7 @@
 - **Supply tracking & reorder reminders** *(from version 2.7)* — optional pack size per medication, counted down with every dose you log; a reminder before a supply runs out, plus a supply calendar and overview.
 - **History view** — clear picture of what you've taken and when.
 - **Local storage only.** No cloud, no sync, no leak.
+- **Made for iPhone Duo** *(from version 2.9)* — half open, 4Meds becomes a pill organizer: progress and the next dose on the top half, today's doses on the bottom half. Fully open: the whole week, medications beside their supply, the report side by side.
 - **iPhone.** SwiftUI, native, fast.
 
 ## Screenshots
@@ -45,7 +46,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone |
+| **Platform** | iPhone (incl. iPhone Duo since version 2.9) |
 | **Minimum iOS** | 18.6 |
 | **Category** | Health & Fitness |
 | **Price** | $1.99 (one-time) |
