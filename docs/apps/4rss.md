@@ -16,6 +16,7 @@
 - **AI summaries.** Optional, opt-in. Skim the day in seconds.
 - **Offline reading.** Articles cached locally, readable on the U-Bahn.
 - **No accounts, no tracking, no ads.** Your reading list is yours.
+- **iPhone Duo** — fully open, headlines on the left and the article on the right; half open, 4RSS becomes a receiver with the headlines and your four feeds on one side of the fold and the article on the other; folding keeps your place (from version 2.6).
 - **iPhone-native.** Built in SwiftUI for iOS 26.1+.
 
 ## Screenshots
@@ -39,7 +40,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone |
+| **Platform** | iPhone (incl. iPhone Duo from version 2.6) |
 | **Minimum iOS** | 26.1 |
 | **Category** | News |
 | **Price** | $0.99 (one-time) |
