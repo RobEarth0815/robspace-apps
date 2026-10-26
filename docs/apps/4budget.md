@@ -17,6 +17,7 @@
 - **Calendar view** for spotting clusters and dry months.
 - **Forecasting** — where will I be at end of month, end of year.
 - **PDF + CSV export** — your data is portable.
+- **iPhone Duo** — half open, the fold becomes the axis: categories, payment days and the forecast stand on it as columns, numbers and controls below; fully open, every tab shows two pages side by side (from version 2.3).
 - **100% local.** No account, no cloud, no subscription. One-time purchase.
 
 ## Screenshots
@@ -45,7 +46,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone |
+| **Platform** | iPhone (incl. iPhone Duo from version 2.3) |
 | **Minimum iOS** | 26.1 |
 | **Category** | Finance |
 | **Price** | $1.99 (one-time) |
