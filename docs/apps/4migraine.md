@@ -16,6 +16,8 @@
 - **Pattern analytics** — time of day, day of week, intensity over time, most common symptoms.
 - **PDF reports** for your doctor — sanitized, professional, ready to print.
 - **Dark theme** — built for the moments when light hurts.
+- **Made for iPhone Duo** — fully open, your log is on one side and your patterns (calendar, charts, triggers) on the other; closed and turned sideways, the same two halves stand side by side. Half open, the ring from the logo opens at the fold; on the table a running migraine stays large and dimmed for a dark room, with every button below the fold. Folding keeps the tab, the month, open sheets, a typed note and the scroll position. Other iPhones look and work as before (from version 1.3).
+- **Easier-to-read calendar** — clearer numbers on coloured days and brighter weekdays, also at large text sizes; bigger month arrows that VoiceOver names, and VoiceOver reads each day's intensity (from version 1.3).
 - **100% on-device.** No cloud, no account, no health-data resale.
 
 ## Screenshots
@@ -44,7 +46,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone & iPad |
+| **Platform** | iPhone & iPad (incl. iPhone Duo from version 1.3) |
 | **Minimum iOS** | 26.0 |
 | **Category** | Health & Fitness |
 | **Price** | $1.99 (one-time) |
