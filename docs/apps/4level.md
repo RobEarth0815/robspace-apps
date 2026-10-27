@@ -17,6 +17,7 @@
 - **Load, fatigue and freshness** — CTL, ATL and TSB, plus race predictions from 5 km to marathon. The form state follows the trend of the last days, so a single hard run no longer reads as overload (from version 1.3).
 - **Recovery timer** — how long each session takes to recover from. Dots fill the gap at the bottom of the level ring; when the ring closes, you are recovered. Reads resting heart rate, heart rate over the day, HRV and cardio recovery from Apple Health, analyses your history once and adapts the timer to how you actually recover (from version 1.3).
 - **Running, cycling and hiking** — yearly goals, year-over-year comparison, weekly volume, records.
+- **Made for iPhone Duo** — half open, the scale of the level dial unrolls along the fold into a level gauge: on the table the dial stands above the fold with the logbook below, in the book pose the gauge stands upright between instrument and logbook. Fully open, every tab shows two pages; closed and turned sideways, dial and history stand side by side. Folding keeps the tab, selection, open sheets and scroll position. Other iPhones and iPad look and work as before (from version 1.4).
 - **Works with the apps you use** — reads from Apple Health (Apple Watch, Garmin Connect, Strava, Zwift, Wahoo …). You choose per sport which recording counts; double recordings count once.
 - **Private by design** — no account, no server, no analytics, no ads. Data stays on your iPhone.
 - **Demo mode** — explore the full app with sample data, no Health access needed.
@@ -45,7 +46,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone, iPad |
+| **Platform** | iPhone, iPad (incl. iPhone Duo from version 1.4) |
 | **Minimum iOS** | 26.1 |
 | **Category** | Health & Fitness |
 | **Price** | 30 days free, then 4Level Pro: yearly subscription or one-time lifetime licence (in-app purchase) |
