@@ -53,6 +53,13 @@
 | **Languages** | English, German, French, Spanish, Italian (since version 2.8) |
 | **Privacy** | No tracking, no accounts, no cloud sync |
 
+## Changelog
+
+- **2.9.1** *(bugfix, in review with Apple)* — paused medications now count as done: the day's ring and the calendar turn green once everything else is taken, and the report shows paused days correctly.
+- **2.9** — made for iPhone Duo; the report shows "—" instead of 100 % for a medication without any taken or missed doses.
+
+Full release notes on the [website](https://4meds.app.robspace.de/#release-notes).
+
 ## File an issue for 4Meds
 
 - 🐞 [Bug report — 4Meds](https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4meds%2Ctype%3Abug%2Cstatus%3Aneeds-triage&template=bug_report.yml)
