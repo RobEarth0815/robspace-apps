@@ -15,6 +15,9 @@
 - **Visual progress bars** instead of static checkboxes — partial progress is a first-class concept.
 - **Tasks, routines, goals** — three layers that cover one-off, repeating, and aspirational.
 - **Clean, minimal interface** — no clutter, no widgets you didn't ask for.
+- **Made for iPhone Duo** — fully open, the overview and your list sit side by side; closed and turned sideways, the same two halves stand next to each other. Half open, a golden light bar fills with your progress and nothing you read or tap lies in the fold. Folding keeps the tab, open sheets, what you typed and where you scrolled (from version 1.2).
+- **Large text** — every screen follows your text size, up to the largest accessibility sizes (from version 1.2).
+- **Reminders open their item** — tapping a reminder opens its task or goal right away; a routine's reminder opens the routine (from version 1.2).
 - **Local-only.** No accounts, no sync, no cloud.
 - **iPhone-native.** SwiftUI, fast, fluid.
 
@@ -44,7 +47,7 @@
 
 | | |
 |---|---|
-| **Platform** | iPhone |
+| **Platform** | iPhone (incl. iPhone Duo from version 1.2) |
 | **Minimum iOS** | 26.0 |
 | **Category** | Productivity |
 | **Price** | $1.99 (one-time) |
