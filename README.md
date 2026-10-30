@@ -98,8 +98,8 @@ For ambitious amateur athletes: one honest fitness level from your Apple Health 
 <a href="https://4mail.app.robspace.de"><img src="docs/images/icons/4mail.jpg" width="80" alt="4Mail icon" /></a>
 </td>
 <td>
-<h3>4Mail — All Addresses. One Glance.</h3>
-A Gmail client for people with several addresses in one mailbox: your folders as a pigeonhole wall, every reply from the right address, ToDos from mails, an agenda and an on-device briefing with Apple Intelligence. iPhone, iPad and Mac — no server in between. <i>Coming soon — currently in beta.</i><br/>
+<h3>4Mail — Many Addresses, One Account</h3>
+Give every address and every folder its own mailbox: virtual pigeonholes in one overview, every reply from the right address, ToDos from mails, an agenda and an on-device briefing with Apple Intelligence. IMAP and Microsoft accounts. iPhone, iPad and Mac — no server in between. <i>In review.</i><br/>
 <a href="docs/apps/4mail.md">Details</a> · <a href="https://4mail.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4mail%2Ctype%3Abug&template=bug_report.yml">Report a 4Mail bug</a>
 </td>
 </tr>
