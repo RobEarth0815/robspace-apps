@@ -113,6 +113,16 @@ A time clock for people who keep track of their own working hours: clock in with
 <a href="docs/apps/4work.md">Details</a> · <a href="https://4work.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4work%2Ctype%3Abug&template=bug_report.yml">Report a 4Work bug</a>
 </td>
 </tr>
+<tr>
+<td width="100" align="center">
+<a href="https://4lyrics.app.robspace.de"><img src="docs/images/icons/4lyrics.jpg" width="80" alt="4Lyrics icon" /></a>
+</td>
+<td>
+<h3>4Lyrics — Live Lyrics</h3>
+Setlists and live mode for bands: songs, setlists and tour dates in one place, shared with your crew through iCloud, and on stage a truss with one lamp per song — the red lamp shows where you are in the set. Made for the iPad on a music stand, also on iPhone and Mac. No account, no tracking. <i>Coming soon to the App Store.</i><br/>
+<a href="docs/apps/4lyrics.md">Details</a> · <a href="https://4lyrics.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4lyrics%2Ctype%3Abug&template=bug_report.yml">Report a 4Lyrics bug</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -154,7 +164,7 @@ I'm a solo developer in Hofheim am Taunus, Germany. I read everything that comes
 
 ## Issue labels
 
-Issues are labeled by **app** (`app:4rss`, `app:4meds`, `app:4mail`, `app:4work`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
+Issues are labeled by **app** (`app:4rss`, `app:4meds`, `app:4mail`, `app:4work`, `app:4lyrics`, …), by **type** (`type:bug`, `type:enhancement`, `type:question`, `type:documentation`), and by **status** (`status:needs-triage`, `status:investigating`, `status:planned`, `status:duplicate`, `status:wont-fix`, `status:cant-reproduce`). You can filter the issue list by any combination of these — e.g. "all open 4Meds bugs being investigated".
 
 ---
 

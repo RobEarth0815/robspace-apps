@@ -30,6 +30,9 @@
 - name: "app:4work"
   color: "3BA9FF"
   description: "4Work — time tracking and vacation planning"
+- name: "app:4lyrics"
+  color: "FF2D2D"
+  description: "4Lyrics — lyrics, setlists and live mode for bands"
 
 # ---- Type (what kind of issue) ----
 - name: "type:bug"
