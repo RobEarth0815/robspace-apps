@@ -22,6 +22,7 @@ body:
         - 4Level
         - 4Mail
         - 4Work
+        - 4Lyrics
     validations:
       required: true
 

@@ -25,6 +25,7 @@ body:
         - 4Level
         - 4Mail
         - 4Work
+        - 4Lyrics
         - Multiple apps
     validations:
       required: true
