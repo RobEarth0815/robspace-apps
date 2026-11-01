@@ -6,7 +6,7 @@
 
 4Lyrics is the lyrics app for bands on stage. Songs, setlists and tour dates live in one place; the live mode shows the lyrics, your position in the set and the time against the plan. Made for the iPad on a music stand, also on iPhone and on Macs with Apple silicon.
 
-*Coming soon to the App Store.* · [Website](https://4lyrics.app.robspace.de)
+*In review.* · [Website](https://4lyrics.app.robspace.de)
 
 ---
 
