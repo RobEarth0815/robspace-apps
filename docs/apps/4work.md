@@ -6,7 +6,7 @@
 
 One tap starts the day, your overtime balance is always in view, and vacation, sick days and public holidays live in one place. In the office, at home or switching between both.
 
-[Website](https://4work.app.robspace.de)
+[Website](https://4work.app.robspace.de) · [App Store](https://apps.apple.com/app/4work-zeiterfassung/id6823601794)
 
 ---
 

@@ -105,12 +105,12 @@ Give every address and every folder its own mailbox: virtual pigeonholes in one 
 </tr>
 <tr>
 <td width="100" align="center">
-<a href="https://4work.app.robspace.de"><img src="docs/images/icons/4work.jpg" width="80" alt="4Work icon" /></a>
+<a href="https://apps.apple.com/app/4work-zeiterfassung/id6823601794"><img src="docs/images/icons/4work.jpg" width="80" alt="4Work icon" /></a>
 </td>
 <td>
 <h3>4Work — Time Tracking & Vacation Planning</h3>
 A time clock for people who keep track of their own working hours: clock in with a tap, see your overtime balance, plan vacation, sick days and time off, track home office against your goals and hand in the monthly timesheet as PDF. iPhone — no account, no server of our own, no tracking.<br/>
-<a href="docs/apps/4work.md">Details</a> · <a href="https://4work.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4work%2Ctype%3Abug&template=bug_report.yml">Report a 4Work bug</a>
+<a href="docs/apps/4work.md">Details</a> · <a href="https://4work.app.robspace.de">Website</a> · <a href="https://apps.apple.com/app/4work-zeiterfassung/id6823601794">App Store</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4work%2Ctype%3Abug&template=bug_report.yml">Report a 4Work bug</a>
 </td>
 </tr>
 <tr>
