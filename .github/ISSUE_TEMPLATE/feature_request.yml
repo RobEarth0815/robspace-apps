@@ -28,6 +28,7 @@ body:
         - 4Mail
         - 4Work
         - 4Lyrics
+        - Backup4Mail
         - Multiple apps
         - "A new app (separate suggestion)"
     validations:

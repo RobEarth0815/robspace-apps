@@ -23,6 +23,7 @@ body:
         - 4Mail
         - 4Work
         - 4Lyrics
+        - Backup4Mail
     validations:
       required: true
 

@@ -26,6 +26,7 @@ body:
         - 4Mail
         - 4Work
         - 4Lyrics
+        - Backup4Mail
         - Multiple apps
     validations:
       required: true
@@ -42,8 +43,8 @@ body:
   - type: input
     id: ios-version
     attributes:
-      label: iOS / iPadOS version
-      description: Settings → General → About → Software Version.
+      label: iOS / iPadOS / macOS version
+      description: "iPhone/iPad: Settings → General → About → Software Version. Mac: Apple menu → About This Mac."
       placeholder: "iOS 18.6"
     validations:
       required: true
@@ -52,7 +53,7 @@ body:
     id: device
     attributes:
       label: Device model
-      description: e.g. iPhone 15 Pro, iPad Air (M2), iPhone SE (3rd gen).
+      description: e.g. iPhone 15 Pro, iPad Air (M2), iPhone SE (3rd gen), MacBook Air (M3).
       placeholder: "iPhone 15 Pro"
     validations:
       required: true
