@@ -55,7 +55,8 @@
 
 ## Changelog
 
-- **2.9.1** *(bugfix, in review with Apple)* — paused medications now count as done: the day's ring and the calendar turn green once everything else is taken, and the report shows paused days correctly.
+- **2.9.2** *(bugfix)* — checking off doses is fast again, even with a long dose history; the app starts faster, and Today, the calendar and the report respond more quickly; archived medications no longer receive dose reminders.
+- **2.9.1** *(bugfix)* — paused medications now count as done: the day's ring and the calendar turn green once everything else is taken, and the report shows paused days correctly.
 - **2.9** — made for iPhone Duo; the report shows "—" instead of 100 % for a medication without any taken or missed doses.
 
 Full release notes on the [website](https://4meds.app.robspace.de/#release-notes).
