@@ -1,4 +1,4 @@
-# 4Lyrics — Live Lyrics
+# 4Lyrics — Stage Prompter
 
 <img src="../images/icons/4lyrics.jpg" width="120" align="right" alt="4Lyrics app icon" />
 

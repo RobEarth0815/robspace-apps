@@ -118,7 +118,7 @@ A time clock for people who keep track of their own working hours: clock in with
 <a href="https://4lyrics.app.robspace.de"><img src="docs/images/icons/4lyrics.jpg" width="80" alt="4Lyrics icon" /></a>
 </td>
 <td>
-<h3>4Lyrics — Live Lyrics</h3>
+<h3>4Lyrics — Stage Prompter</h3>
 Setlists and live mode for bands: songs, setlists and tour dates in one place, shared with your crew through iCloud, and on stage a truss with one lamp per song — the red lamp shows where you are in the set. Made for the iPad on a music stand, also on iPhone and Mac. No account, no tracking. <i>In review.</i><br/>
 <a href="docs/apps/4lyrics.md">Details</a> · <a href="https://4lyrics.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3A4lyrics%2Ctype%3Abug&template=bug_report.yml">Report a 4Lyrics bug</a>
 </td>
