@@ -12,22 +12,32 @@ One tap starts the day, your overtime balance is always in view, and vacation, s
 
 ## What it does
 
-- **Time clock** — clock in and out with a tap, a Shortcut or (Pro) automatically when you arrive at or leave one of your places; break rules, Live Activity and a ring in the Dynamic Island.
+- **Time clock** — clock in and out with a tap, a Shortcut or (Pro) automatically when you arrive at or leave one of your places; break rules, Live Activity and a ring in the Dynamic Island. On the Mac the time clock is also in the menu bar and the Dock.
+- **Start or stop work** — one Shortcut that starts the time clock when it is stopped and stops it while it runs. Run it from the Action button, with Siri or from the Shortcuts app (from version 1.1.1, iOS).
 - **Hours** — every day against its target, week and month, overtime balance, an optional daily-limit warning.
 - **Work schedules** — weekly hours or hours per weekday, schedules that change over time, vacation days per schedule.
 - **Time off** — vacation taken, planned and free, carry-over with expiry, vacation years you can correct, sick days, time off in lieu, bridge days; public holidays for every German federal state.
 - **Places and goals** — home office, office, on the road; quotas such as "at least 2 office days a week" with forecast.
 - **Timesheets** — monthly timesheet as PDF or CSV, automatic monthly reports, past months on request.
 - **Backup**, widgets, Shortcuts and Siri.
+- **iPhone, iPad, Mac and iPhone Duo** — one app on all of them (from version 1.1); on iPhone Duo it has its own layout for the fold.
 
 ## Specs
 
 | | |
 |---|---|
-| **Platform** | iPhone (iOS 26) |
+| **Platform** | iPhone, iPad (iOS 26), Mac, iPhone Duo |
 | **Languages** | English, German, French, Spanish, Italian |
 | **Price** | Free; 4Work Pro as monthly or yearly subscription or one-time purchase, 30 days of Pro included |
 | **Privacy** | No account, no own server, no tracking, no ads — data on the device and in your private iCloud |
+
+## Changelog
+
+- **1.1.1** *(iOS)* — new Shortcut "Start or stop work": starts the time clock when it is stopped and stops it while it runs; works from the Action button, with Siri and from the Shortcuts app. Version 1.1.1 for the Mac is in review.
+- **1.1** — 4Work for iPad, Mac and iPhone Duo.
+- **1.0** — first release for iPhone.
+
+Full release notes on the [website](https://4work.app.robspace.de/).
 
 ## File an issue for 4Work
 
