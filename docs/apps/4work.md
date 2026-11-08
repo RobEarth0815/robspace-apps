@@ -37,8 +37,6 @@ One tap starts the day, your overtime balance is always in view, and vacation, s
 - **1.1** — 4Work for iPad, Mac and iPhone Duo.
 - **1.0** — first release for iPhone.
 
-Full release notes on the [website](https://4work.app.robspace.de/).
-
 ## File an issue for 4Work
 
 ⚠️ This is a public repo — please don't include personal data such as addresses or working times of real people. Use placeholders.
