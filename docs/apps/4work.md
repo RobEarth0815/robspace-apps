@@ -13,7 +13,8 @@ One tap starts the day, your overtime balance is always in view, and vacation, s
 ## What it does
 
 - **Time clock** — clock in and out with a tap, a Shortcut or (Pro) automatically when you arrive at or leave one of your places; break rules, Live Activity and a ring in the Dynamic Island. On the Mac the time clock is also in the menu bar and the Dock.
-- **Start or stop work** — one Shortcut that starts the time clock when it is stopped and stops it while it runs. Run it from the Action button, with Siri or from the Shortcuts app (from version 1.1.1, iOS).
+- **Reminder to clock in** — on workdays without time off, 4Work reminds you at a time you choose if you have not clocked in yet, and you clock in right from the notification (from version 1.2).
+- **Start or stop work** — one Shortcut that starts the time clock when it is stopped and stops it while it runs. Run it with Siri or from the Shortcuts app, on iPhone also from the Action button (from version 1.1.1).
 - **Hours** — every day against its target, week and month, overtime balance, an optional daily-limit warning.
 - **Work schedules** — weekly hours or hours per weekday, schedules that change over time, vacation days per schedule.
 - **Time off** — vacation taken, planned and free, carry-over with expiry, vacation years you can correct, sick days, time off in lieu, bridge days; public holidays for every German federal state.
@@ -33,7 +34,8 @@ One tap starts the day, your overtime balance is always in view, and vacation, s
 
 ## Changelog
 
-- **1.1.1** *(iOS)* — new Shortcut "Start or stop work": starts the time clock when it is stopped and stops it while it runs; works from the Action button, with Siri and from the Shortcuts app. Version 1.1.1 for the Mac is in review.
+- **1.2** — reminder to clock in: on workdays without time off, 4Work reminds you at a time you choose if you have not clocked in yet, and you can clock in right from the notification; set on each device. Version 1.2 for the Mac is in review.
+- **1.1.1** — new Shortcut "Start or stop work": starts the time clock when it is stopped and stops it while it runs; works with Siri and from the Shortcuts app, on iPhone also from the Action button, on the Mac also from Spotlight.
 - **1.1** — 4Work for iPad, Mac and iPhone Duo.
 - **1.0** — first release for iPhone.
 
