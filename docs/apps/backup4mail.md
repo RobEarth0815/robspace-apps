@@ -6,7 +6,7 @@
 
 Backup4Mail is a Mac app that copies complete IMAP mailboxes from your mail server into a folder you choose: on your Mac, an external drive or a NAS. After the first backup it fetches only what has changed. Every backup becomes a point in time you can travel back to, restore and export.
 
-*Coming to the Mac App Store.* · [Website](https://backup4mail.app.robspace.de)
+*Now in the [Mac App Store](https://apps.apple.com/app/id6830320427).* · [Website](https://backup4mail.app.robspace.de)
 
 ---
 
