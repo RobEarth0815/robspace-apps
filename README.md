@@ -129,8 +129,8 @@ Setlists and live mode for bands: songs, setlists and tour dates in one place, s
 </td>
 <td>
 <h3>Backup4Mail — Mail Backup with Time Travel</h3>
-Back up whole IMAP mailboxes into open files (EML or MBOX) on your Mac, a drive or a NAS, then travel back to any point in time, restore without duplicates and export to open formats. Outlook.com and Microsoft 365 via "Sign in with Microsoft". Mac — no robspace server, no tracking. <i>Coming to the Mac App Store.</i><br/>
-<a href="docs/apps/backup4mail.md">Details</a> · <a href="https://backup4mail.app.robspace.de">Website</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3Abackup4mail%2Ctype%3Abug&template=bug_report.yml">Report a Backup4Mail bug</a>
+Back up whole IMAP mailboxes into open files (EML or MBOX) on your Mac, a drive or a NAS, then travel back to any point in time, restore without duplicates and export to open formats. Outlook.com and Microsoft 365 via "Sign in with Microsoft". Mac — no robspace server, no tracking. <i>Now in the Mac App Store.</i><br/>
+<a href="docs/apps/backup4mail.md">Details</a> · <a href="https://backup4mail.app.robspace.de">Website</a> · <a href="https://apps.apple.com/app/id6830320427">Mac App Store</a> · <a href="https://github.com/RobEarth0815/robspace-apps/issues/new?labels=app%3Abackup4mail%2Ctype%3Abug&template=bug_report.yml">Report a Backup4Mail bug</a>
 </td>
 </tr>
 </table>
