@@ -8,6 +8,8 @@ Backup4Mail is a Mac app that copies complete IMAP mailboxes from your mail serv
 
 *Now in the [Mac App Store](https://apps.apple.com/app/id6830320427).* · [Website](https://backup4mail.app.robspace.de)
 
+**Backup4Mail for Windows** (Windows 11, x64 and ARM64) has been submitted to the Microsoft Store and is in review. Back up whole IMAP mailboxes to this PC, an external drive or your NAS, and travel back to any point in time. Restore without duplicates, export to open formats. 30 days free, then a one-time purchase; restore and export always stay free.
+
 ---
 
 ## What it does
@@ -26,7 +28,7 @@ Backup4Mail is a Mac app that copies complete IMAP mailboxes from your mail serv
 
 | | |
 |---|---|
-| **Platform** | Mac |
+| **Platform** | Mac · Windows 11 (in review at the Microsoft Store) |
 | **Minimum** | macOS 26 |
 | **Category** | Utilities |
 | **Mail accounts** | IMAP (password or app password) and Microsoft (Outlook.com, Hotmail, Live, Microsoft 365) |
